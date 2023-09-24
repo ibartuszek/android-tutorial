@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="tc_primary_top_padding">16dp</dimen>
+    <dimen name="tc_primary_bottom_padding">8dp</dimen>
+</resources>

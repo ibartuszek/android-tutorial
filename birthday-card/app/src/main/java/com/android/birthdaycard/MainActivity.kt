@@ -30,7 +30,10 @@ class MainActivity : ComponentActivity() {
             BirthdayCardTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    BirthdayCard(message = "Happy Birthday Sam!", from = "From Emma")
+                    BirthdayCard(
+                        message = getString(R.string.happy_birthday_message),
+                        from = getString(R.string.happy_birthday_from)
+                    )
                 }
             }
         }

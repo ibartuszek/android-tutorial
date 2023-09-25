@@ -9,7 +9,7 @@ Apps/lessons
 
 ### Unit 1:
 - greeting-card
-- birthday-card:
+- birthday-card
     - basic text functions
     - add background picture
 - compose-article
@@ -17,6 +17,9 @@ Apps/lessons
 - quadrant-view
 - business-card
     - icons
+
+### Unit 2:
+- dice-roller
 
 
 Useful links

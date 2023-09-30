@@ -24,6 +24,13 @@ Apps/lessons
     - button + remember
 - lemonade
     - scaffold + topAppBar
+- tip-calculator
+    - input field
+        - keyboard options
+        - label
+        - icon
+    - switch
+    - vertical alignment
 
 Useful links
 -------------------------------------------------------------------------------

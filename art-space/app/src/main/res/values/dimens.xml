@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="spacer_medium">32dp</dimen>
+    <dimen name="spacer_large">64dp</dimen>
+
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_picture_padding">28dp</dimen>
+    <dimen name="card_picture_height">320dp</dimen>
+
+    <dimen name="button_width">128dp</dimen>
+    <dimen name="button_elevation">8dp</dimen>
+
+    <dimen name="card_title_size">28sp</dimen>
+    <dimen name="card_sub_title_size">14sp</dimen>
+</resources>

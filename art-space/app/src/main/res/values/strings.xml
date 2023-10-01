@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+    <string name="title_pindur1">Pindur 1</string>
+    <string name="author_pindur1">Me</string>
+    <string name="year_pindur1">2023</string>
+    <string name="title_pindur2">Pindur 2 LongLongLongLongLongLong LongLongLongLongLongLong Title</string>
+    <string name="author_pindur2">Another author</string>
+    <string name="year_pindur2">2023</string>
+    <string name="title_pindur3">Pindur 3</string>
+    <string name="author_pindur3">Unknown author</string>
+    <string name="year_pindur3">2023</string>
+</resources>

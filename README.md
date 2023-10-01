@@ -31,6 +31,9 @@ Apps/lessons
         - icon
     - switch
     - vertical alignment
+    - unit tests
+    - instrument tests
+- art-space
 
 Useful links
 -------------------------------------------------------------------------------

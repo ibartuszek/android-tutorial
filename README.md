@@ -35,6 +35,16 @@ Apps/lessons
     - instrument tests
 - art-space
 
+### Unit 3:
+- affirmations
+    - lazy columns/list
+- courses
+    - card
+    - typography default font styles
+    - LazyVerticalGrid
+
 Useful links
 -------------------------------------------------------------------------------
 - [Android Basic with Componse](https://developer.android.com/courses/android-basics-compose/course)
+- [Android Vector drawables](https://developer.android.com/develop/ui/views/graphics/vector-drawable-resources)
+- [Icon design principles](https://m3.material.io/styles/icons/designing-icons)

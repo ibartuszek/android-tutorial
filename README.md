@@ -42,9 +42,18 @@ Apps/lessons
     - card
     - typography default font styles
     - LazyVerticalGrid
+- woof
+    - custom material theme
+    - dynamicColor scheme
+    - use custom shapes
+    - use custom font styles
+
 
 Useful links
 -------------------------------------------------------------------------------
 - [Android Basic with Componse](https://developer.android.com/courses/android-basics-compose/course)
 - [Android Vector drawables](https://developer.android.com/develop/ui/views/graphics/vector-drawable-resources)
 - [Icon design principles](https://m3.material.io/styles/icons/designing-icons)
+- [Material Theme Builder](https://m3.material.io/theme-builder#/custom)
+- [Google Fonts](https://fonts.google.com/)
+- [WindowInsets](https://developer.android.com/reference/android/view/WindowInsets)

@@ -47,6 +47,8 @@ Apps/lessons
     - dynamicColor scheme
     - use custom shapes
     - use custom font styles
+    - trick to float right with spacer in DogItem
+    - collapsable card
 
 
 Useful links
@@ -57,3 +59,9 @@ Useful links
 - [Material Theme Builder](https://m3.material.io/theme-builder#/custom)
 - [Google Fonts](https://fonts.google.com/)
 - [WindowInsets](https://developer.android.com/reference/android/view/WindowInsets)
+- [Material Icons](https://fonts.google.com/icons)
+- [WebAIM - contrast checker](https://webaim.org/resources/contrastchecker/)
+
+### Accessibility links:
+- [Make Your Android app more accessible](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
+- [Accessibility in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-accessibility#0)

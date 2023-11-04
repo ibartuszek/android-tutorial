@@ -51,6 +51,8 @@ Apps/lessons
     - trick to float right with spacer in DogItem
     - collapsable card
 - superheroes
+- 30 days app
+    - skipped
 
 
 Useful links
